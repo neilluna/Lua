@@ -1,0 +1,11 @@
+.vscode/bookmarks.json
+
+lua-5.1.5/**
+!lua-5.1.5/build.ps1
+!lua-5.1.5/CMakeLists.txt
+
+lua-5.4.8/**
+!lua-5.4.8/build.ps1
+!lua-5.4.8/CMakeLists.txt
+
+luarocks-3.13.0-windows-64/**
