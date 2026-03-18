@@ -1,4 +1,4 @@
-# Change log for project-name
+# Change log for Lua
 
 All notable changes to this project will be documented in this file.
 
