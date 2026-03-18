@@ -1,5 +1,5 @@
 # Lua
-Version 0.0.0
+Version 1.0.0
 
 My personal Lua environments on Microsoft Windows. This repository contains the following:
 - Scripts to build Lua 5.1.5 and Lua 5.4.8 on Microsoft Windows.
