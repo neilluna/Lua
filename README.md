@@ -1,10 +1,12 @@
 # Lua
-Version 0.0.0
+Version 1.0.0
 
 My personal Lua environments on Microsoft Windows. This repository contains the following:
 - Scripts to build Lua 5.1.5 and Lua 5.4.8 on Microsoft Windows.
 - A script to launch an interactive Lua 5.1.5 enabled PowerShell sub-shell that includes Lua and LuaRocks.
 - A script to to launch an interactive Lua 5.4.8 enabled PowerShell sub-shell that includes Lua and LuaRocks.
+
+Note: This is NOT a release of Lua. These are just my scripts to build Lua from the official sources, and provide a Lua environment to use Lua and LuaRocks. Lua can be found at [The Programmin Language Lua](https://lua.org/).
 
 ## Installation
 
