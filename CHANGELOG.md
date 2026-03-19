@@ -11,3 +11,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 - The readme file.
+
+## [unreleased] - yyyy-mm-dd
+### Added
+- CLAUDE.md file.
+
+### Changed
+- Updated this change log.
+
+### Fixed
+- Visual Studio Code no longer nags about CMakeLists.
+- Fixed minor typographical errors in the readme file.
